@@ -1,0 +1,13 @@
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\Lab_MappingLessFiledsIntoDb.exe.config
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\Lab_MappingLessFiledsIntoDb.exe
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\Lab_MappingLessFiledsIntoDb.pdb
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\AutoMapper.dll
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\EntityFramework.dll
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\EntityFramework.SqlServer.dll
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\AutoMapper.xml
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\EntityFramework.xml
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\EntityFramework.SqlServer.xml
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\obj\Debug\Lab_MappingLessFiledsIntoDb.csprojResolveAssemblyReference.cache
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\obj\Debug\Lab_MappingLessFiledsIntoDb.exe
+D:\Albert\Git\Lab_MappingLessFiledsIntoDb\Lab_MappingLessFiledsIntoDb\obj\Debug\Lab_MappingLessFiledsIntoDb.pdb
